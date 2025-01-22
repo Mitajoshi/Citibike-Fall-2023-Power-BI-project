@@ -1,4 +1,4 @@
-# Citibike Ridership Analysis for Fall 2023 using Power BI 
+# Citibike Ridership Analysis for Summer 2023 using Power BI 
 
 
 Please find the report dashboard below to obtain a quick overview:
